@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kacper-echaust.github.io/homepage-cv/](https://kacper-echaust.github.io/homepage-cv/)
 
-<h3 align="left">Connect with me: [k9echaust@gmail.com]</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kacper-echaust-b13749286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kacper-echaust-b13749286/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kacper.echaust/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kacper.echaust/" height="30" width="40" /></a>
