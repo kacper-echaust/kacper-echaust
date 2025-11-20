@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A Junior Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://kacper-echaust.github.io/homepage-cv/](https://kacper-echaust.github.io/homepage-cv/)
+- 👨‍💻 All of my projects are available at [https://kacper-echaust.github.io/homepage-cv/](https://kacper-echaust.github.io/homepage-cv/](https://home-page-kacper.netlify.app/)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
